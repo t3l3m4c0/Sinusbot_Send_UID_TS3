@@ -17,7 +17,7 @@
 /*
  *
  * @author Patrick15a <patrick15a@myfilehost.de
- * Modify it by T3l3m4c0 for send UID with %uid%
+ * Modify it by Telémaco for send UID with %uid%
  */
 registerPlugin({
     name: 'WelcomeMessge+',
